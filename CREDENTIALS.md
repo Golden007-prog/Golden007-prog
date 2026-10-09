@@ -23,4 +23,7 @@ The GitHub button links to public repositories. It is a navigation badge, not an
 
 ## Motion
 
-Banner orbit and particles, moving link borders, signal dividers, workflow connectors, course-card accents and contact pulse are self-contained SVG animations. All honor prefers-reduced-motion. No scripts, external animation service, fake counters or scheduled workflow are required.
+Banner orbit and particles, moving link borders, signal dividers, workflow connectors, course-card accents and contact pulse are self-contained SVG animations. All honor prefers-reduced-motion.
+
+The contribution snake is generated from the real GitHub contribution calendar using [Platane/snk](https://github.com/Platane/snk). The Contribution snake workflow refreshes its light and dark SVGs daily on the output branch, with an additional reduced-motion rule. It can also be run manually from GitHub Actions. The README embeds these generated images without client-side scripts or fabricated activity.
+

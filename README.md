@@ -160,6 +160,18 @@ On [Kaggle](https://www.kaggle.com/oikantikbasu007), I explore model training an
 
 On my [portfolio](https://basuoikantik.in/), you can find project context, experience, education and credential links.
 
+### Contribution visualizer
+
+A snake making its way through my GitHub contributions. Refreshed daily.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golden007-prog/Golden007-prog/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Golden007-prog/Golden007-prog/output/github-snake.svg" />
+  <img alt="Animated snake moving through Oikantik Basu's GitHub contribution calendar" src="https://raw.githubusercontent.com/Golden007-prog/Golden007-prog/output/github-snake.svg" width="100%" />
+</picture>
+
+[View contribution activity](https://github.com/Golden007-prog?tab=overview) · [Powered by snk](https://github.com/Platane/snk)
+
 <a href="mailto:basuoikantik@gmail.com"><img src="./assets/contact.svg" width="100%" alt="Open to remote AI and data opportunities — email Oikantik" /></a>
 
 ### Let's build something useful
