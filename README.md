@@ -28,7 +28,7 @@ I'm interested in **remote Generative AI Engineer, Applied AI Engineer and AI-fo
 
 ### Selected work
 
-These repositories show how I approach different engineering problems. Project descriptions refer to portfolio, capstone and hackathon work; they are not claims of commercial adoption.
+A selection of my independent projects, capstone work and team hackathon builds.
 
 | Project | What I built / contributed to | Engineering focus |
 | :--- | :--- | :--- |
@@ -61,4 +61,3 @@ On my [portfolio](https://basuoikantik.in/), you can find project context, exper
 
 [**Email basuoikantik@gmail.com →**](mailto:basuoikantik@gmail.com) &nbsp; · &nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/oikantik-basu-b13919278/) &nbsp; · &nbsp; [Explore my portfolio](https://basuoikantik.in/)
 
-<sub>Banner is stored in this repository, needs no external image service, and respects reduced-motion preferences.</sub>
