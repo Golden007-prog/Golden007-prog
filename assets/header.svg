@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Oikantik Basu — Applied AI engineer</title>
+<desc id="desc">A navy and mint banner with a gently animated diagram connecting data, agents and products.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142b36"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#a5c5cf" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+text{font-family:Segoe UI,Arial,sans-serif}
+.flow{stroke-dasharray:7 13;animation:flow 3s linear infinite}
+.halo{transform-origin:960px 170px;animation:pulse 4s ease-in-out infinite}
+@keyframes flow{to{stroke-dashoffset:-80}}
+@keyframes pulse{50%{opacity:.3;transform:scale(1.07)}}
+@media(prefers-reduced-motion:reduce){.flow,.halo{animation:none}}
+</style>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<rect x="42" y="44" width="4" height="248" rx="2" fill="#75ead0"/>
+<text x="72" y="75" font-size="14" letter-spacing="4" fill="#75ead0">APPLIED AI / ENGINEERING</text>
+<text x="70" y="145" font-size="54" font-weight="700" fill="#f1f6fa">Oikantik Basu</text>
+<text x="73" y="190" font-size="23" fill="#d3e0e9">From data to agents.</text>
+<text x="73" y="223" font-size="23" fill="#d3e0e9">From experiments to useful products.</text>
+<text x="73" y="281" font-size="13" letter-spacing="2" fill="#93aab8">PYTHON  /  TYPESCRIPT  /  CLOUD</text>
+<circle class="halo" cx="960" cy="170" r="103" fill="none" stroke="#75ead0" stroke-opacity=".25"/>
+<path d="M795 170H900M1020 170H1120" fill="none" stroke="#75ead0" stroke-width="2" class="flow"/>
+<rect x="730" y="144" width="95" height="52" rx="12" fill="#162d39" stroke="#48616f"/>
+<text x="777" y="175" text-anchor="middle" font-size="14" fill="#d3e0e9">DATA</text>
+<rect x="894" y="126" width="132" height="88" rx="18" fill="#173b40" stroke="#75ead0"/>
+<text x="960" y="164" text-anchor="middle" font-size="15" font-weight="600" fill="#a8ffe6">AGENTS</text>
+<text x="960" y="187" text-anchor="middle" font-size="11" fill="#b3c9d2">reason · act · evaluate</text>
+<circle cx="1120" cy="170" r="9" fill="#75ead0"/>
+<text x="1116" y="211" text-anchor="middle" font-size="12" fill="#d3e0e9">PRODUCTS</text>
+</svg>
