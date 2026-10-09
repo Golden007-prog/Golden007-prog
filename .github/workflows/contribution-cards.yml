@@ -1,0 +1,50 @@
+name: Contribution cards
+
+on:
+  schedule:
+    - cron: "43 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/contribution-cards.yml"
+      - "scripts/update-contributions.mjs"
+      - "scripts/update-contributions.test.mjs"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: contribution-cards
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: "24"
+      - name: Check contribution classification and rendering
+        run: node --test scripts/update-contributions.test.mjs
+      - name: Refresh public contribution cards
+        run: node scripts/update-contributions.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+      - name: Publish changed cards
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/contributions
+          if git diff --cached --quiet; then
+            echo "Contribution cards are current."
+            exit 0
+          fi
+          git commit -m "Refresh public contribution cards"
+          git push origin HEAD:main
