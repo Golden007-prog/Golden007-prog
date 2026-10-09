@@ -16,7 +16,7 @@ Bengaluru, India · IST (UTC+5:30) · Open to remote opportunities</p>
 <p align="center">
   <a href="https://github.com/Golden007-prog?tab=repositories"><img src="./assets/link-github.svg" width="192" alt="GitHub — Public projects" /></a>
   <a href="https://www.kaggle.com/oikantikbasu007"><img src="./assets/link-kaggle.svg" width="192" alt="Kaggle — Experiments & badges" /></a>
-  <a href="#anthropic-course-completions"><img src="./assets/link-anthropic.svg" width="192" alt="Anthropic — Course completions" /></a>
+  <a href="#user-content-anthropic-course-completions"><img src="./assets/link-anthropic.svg" width="192" alt="Anthropic — Course completions" /></a>
   <a href="https://www.credly.com/users/oikantik-basu/badges/credly"><img src="./assets/link-credly.svg" width="192" alt="Credly — Verified credentials" /></a>
 </p>
 
