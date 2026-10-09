@@ -54,12 +54,13 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="1 merged contributions, 4 open pull requests, across 5 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="2 merged contributions, 3 open pull requests, across 5 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/continuous-dems/fetchez/pull/477"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: continuous-dems/fetchez #477 — docs: document filename filtering hooks and stages" /></a>
+  <a href="https://github.com/leeyunseokarchive/fituna/pull/82"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: leeyunseokarchive/fituna #82 — docs: reflect single-pass KLD baseline in architecture guides" /></a>
+  <a href="https://github.com/continuous-dems/fetchez/pull/477"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: continuous-dems/fetchez #477 — docs: document filename filtering hooks and stages" /></a>
 </p>
 
 #### Upcoming · open pull requests
@@ -68,7 +69,6 @@ Public pull requests in other people’s repositories. Merged cards show contrib
   <a href="https://github.com/arthu-pr/nuxt-compose-icons/pull/524"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: arthu-pr/nuxt-compose-icons #524 — fix: warn when SVG filenames produce duplicate component names" /></a>
   <a href="https://github.com/scottyUX/ts-repo-metrics/pull/276"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: scottyUX/ts-repo-metrics #276 — fix: provide an accessible name for the risk profile dialog" /></a>
   <a href="https://github.com/puxti-labs/puxti/pull/41"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: puxti-labs/puxti #41 — chore: clear lint findings in impact CLI tests" /></a>
-  <a href="https://github.com/leeyunseokarchive/fituna/pull/82"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: leeyunseokarchive/fituna #82 — docs: reflect single-pass KLD baseline in architecture guides" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
