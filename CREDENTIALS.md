@@ -27,3 +27,8 @@ Banner orbit and particles, moving link borders, signal dividers, workflow conne
 
 The contribution snake is generated from the real GitHub contribution calendar using [Platane/snk](https://github.com/Platane/snk). The Contribution snake workflow refreshes its light and dark SVGs daily on the output branch, with an additional reduced-motion rule. It can also be run manually from GitHub Actions. The README embeds these generated images without client-side scripts or fabricated activity.
 
+## Contribution cards
+
+The Contribution cards workflow refreshes the README every six hours using GitHub's public pull request search and individual pull request records. Only pull requests authored by Golden007-prog in public repositories owned by other accounts qualify. The merged section additionally requires a confirmed merge by another account. Open and draft pull requests are labeled separately and do not count as accepted contributions; closed, unmerged pull requests are omitted.
+
+Counts cover all qualifying results, with up to four recent cards per section. Each card links to its real pull request, and all SVG motion respects reduced-motion preferences. Failed or incomplete API searches preserve the last published data. The generator updates only its marked README section and its own SVG files; the snake workflow remains separate.
