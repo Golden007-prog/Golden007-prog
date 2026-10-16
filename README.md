@@ -54,7 +54,7 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="3 merged contributions, 5 open pull requests, across 8 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="3 merged contributions, 4 open pull requests, across 7 external projects" />
 
 #### Merged contributions
 
@@ -68,9 +68,9 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 
 <p align="left">
   <a href="https://github.com/scottyUX/ts-repo-metrics/pull/276"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: scottyUX/ts-repo-metrics #276 — fix: provide an accessible name for the risk profile dialog" /></a>
-  <a href="https://github.com/TauricResearch/TradingAgents/pull/1520"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: TauricResearch/TradingAgents #1520 — fix(memory): exclude decision-day look-ahead from settlement" /></a>
-  <a href="https://github.com/websocket-client/websocket-client/pull/1070"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: websocket-client/websocket-client #1070 — Propagate KeyboardInterrupt from run_forever after cleanup" /></a>
-  <a href="https://github.com/IkarusAILabs/SafeAI/pull/239"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: IkarusAILabs/SafeAI #239 — Improve Authority Evidence Benchmark HTML presentation" /></a>
+  <a href="https://github.com/websocket-client/websocket-client/pull/1070"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: websocket-client/websocket-client #1070 — Propagate KeyboardInterrupt from run_forever after cleanup" /></a>
+  <a href="https://github.com/IkarusAILabs/SafeAI/pull/239"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: IkarusAILabs/SafeAI #239 — Improve Authority Evidence Benchmark HTML presentation" /></a>
+  <a href="https://github.com/arthu-pr/nuxt-compose-icons/pull/524"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: arthu-pr/nuxt-compose-icons #524 — fix: warn when SVG filenames produce duplicate component names" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
