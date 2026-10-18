@@ -67,8 +67,8 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/arthu-pr/nuxt-compose-icons/pull/524"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: arthu-pr/nuxt-compose-icons #524 — fix: warn when SVG filenames produce duplicate component names" /></a>
-  <a href="https://github.com/IkarusAILabs/SafeAI/pull/239"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: IkarusAILabs/SafeAI #239 — Improve Authority Evidence Benchmark HTML presentation" /></a>
+  <a href="https://github.com/IkarusAILabs/SafeAI/pull/239"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: IkarusAILabs/SafeAI #239 — Improve Authority Evidence Benchmark HTML presentation" /></a>
+  <a href="https://github.com/arthu-pr/nuxt-compose-icons/pull/524"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: arthu-pr/nuxt-compose-icons #524 — fix: warn when SVG filenames produce duplicate component names" /></a>
   <a href="https://github.com/scottyUX/ts-repo-metrics/pull/276"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: scottyUX/ts-repo-metrics #276 — fix: provide an accessible name for the risk profile dialog" /></a>
   <a href="https://github.com/websocket-client/websocket-client/pull/1070"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: websocket-client/websocket-client #1070 — Propagate KeyboardInterrupt from run_forever after cleanup" /></a>
 </p>
