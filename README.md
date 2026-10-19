@@ -54,15 +54,15 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="8 merged contributions, 5 open pull requests, across 12 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="9 merged contributions, 4 open pull requests, across 12 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/IkarusAILabs/SafeAI/pull/240"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: IkarusAILabs/SafeAI #240 — fix(benchmark): bound HTML report history" /></a>
-  <a href="https://github.com/TanbirRamim/open-source-radar/pull/190"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: TanbirRamim/open-source-radar #190 — fix: restore list position after select filtering" /></a>
-  <a href="https://github.com/ujjwalv01/releaseproof/pull/19"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: ujjwalv01/releaseproof #19 — feat(core): show rebuild image digest in text reports" /></a>
-  <a href="https://github.com/tdk-landscape/tdk-cli-core/pull/1509"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: tdk-landscape/tdk-cli-core #1509 — docs: fix benchmark result links" /></a>
+  <a href="https://github.com/websocket-client/websocket-client/pull/1070"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: websocket-client/websocket-client #1070 — Propagate KeyboardInterrupt from run_forever after cleanup" /></a>
+  <a href="https://github.com/IkarusAILabs/SafeAI/pull/240"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: IkarusAILabs/SafeAI #240 — fix(benchmark): bound HTML report history" /></a>
+  <a href="https://github.com/TanbirRamim/open-source-radar/pull/190"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: TanbirRamim/open-source-radar #190 — fix: restore list position after select filtering" /></a>
+  <a href="https://github.com/ujjwalv01/releaseproof/pull/19"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: ujjwalv01/releaseproof #19 — feat(core): show rebuild image digest in text reports" /></a>
 </p>
 
 #### Upcoming · open pull requests
