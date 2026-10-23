@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="10 merged contributions, 8 open pull requests, across 17 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="13 merged contributions, 10 open pull requests, across 22 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/Adiezc/questless/pull/50"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: Adiezc/questless #50 — fix: quote the correct good&apos;s evidence in quest summaries" /></a>
-  <a href="https://github.com/websocket-client/websocket-client/pull/1070"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: websocket-client/websocket-client #1070 — Propagate KeyboardInterrupt from run_forever after cleanup" /></a>
-  <a href="https://github.com/IkarusAILabs/SafeAI/pull/240"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: IkarusAILabs/SafeAI #240 — fix(benchmark): bound HTML report history" /></a>
-  <a href="https://github.com/TanbirRamim/open-source-radar/pull/190"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: TanbirRamim/open-source-radar #190 — fix: restore list position after select filtering" /></a>
+  <a href="https://github.com/yunaremaia/diff-contract/pull/117"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: yunaremaia/diff-contract #117 — fix: validate aggregate threshold types during parsing" /></a>
+  <a href="https://github.com/gazetta-studio/gazetta-studio/pull/1153"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: gazetta-studio/gazetta-studio #1153 — fix: use locale robots metadata in publish-state sidecars" /></a>
+  <a href="https://github.com/anandkaranubc/git-into-gsoc/pull/348"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: anandkaranubc/git-into-gsoc #348 — fix(issues): use singular wording for one unlabelled issue" /></a>
+  <a href="https://github.com/Adiezc/questless/pull/50"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: Adiezc/questless #50 — fix: quote the correct good&apos;s evidence in quest summaries" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/gazetta-studio/gazetta-studio/pull/1153"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: gazetta-studio/gazetta-studio #1153 — fix: use locale robots metadata in publish-state sidecars" /></a>
-  <a href="https://github.com/anandkaranubc/git-into-gsoc/pull/348"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: anandkaranubc/git-into-gsoc #348 — fix(issues): use singular wording for one unlabelled issue" /></a>
-  <a href="https://github.com/yunaremaia/diff-contract/pull/117"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: yunaremaia/diff-contract #117 — fix: validate aggregate threshold types during parsing" /></a>
-  <a href="https://github.com/FrostByte-49/Wharf/pull/64"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: FrostByte-49/Wharf #64 — fix(utils): parse GitHub repository URLs by origin and pathname" /></a>
+  <a href="https://github.com/JamshidS/aiset/pull/75"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: JamshidS/aiset #75 — fix: correct teammap route methods, project frames and CLI validation" /></a>
+  <a href="https://github.com/dgesteves/ondocs/pull/229"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: dgesteves/ondocs #229 — fix(mcp): accept null optional string arguments" /></a>
+  <a href="https://github.com/yunaremaia/aipr/pull/31"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: yunaremaia/aipr #31 — fix: report text file read failures as usage errors" /></a>
+  <a href="https://github.com/Adiezc/agentic-grove/pull/40"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: Adiezc/agentic-grove #40 — fix(console): match symbol-ending agent mentions" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
