@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="21 merged contributions, 9 open pull requests, across 29 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="23 merged contributions, 11 open pull requests, across 33 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/hariomlohardev/peek/pull/186"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: hariomlohardev/peek #186 — fix: detect all Python dependency import aliases" /></a>
-  <a href="https://github.com/hherb/bmlibrarian_lite/pull/623"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: hherb/bmlibrarian_lite #623 — fix: honor configured Ollama task context windows" /></a>
-  <a href="https://github.com/Adiezc/agentic-grove/pull/40"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: Adiezc/agentic-grove #40 — fix(console): match symbol-ending agent mentions" /></a>
-  <a href="https://github.com/engrtarun/opencode-model-badges/pull/13"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: engrtarun/opencode-model-badges #13 — fix: update active badges when a session switches model" /></a>
+  <a href="https://github.com/cairndev-sh/cairn/pull/186"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: cairndev-sh/cairn #186 — fix(cli): align pipeline inspection with run precedence" /></a>
+  <a href="https://github.com/alimohammadiamirhossein/deputy/pull/4"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: alimohammadiamirhossein/deputy #4 — fix(server): report Deputy version in MCP initialization" /></a>
+  <a href="https://github.com/hariomlohardev/peek/pull/186"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: hariomlohardev/peek #186 — fix: detect all Python dependency import aliases" /></a>
+  <a href="https://github.com/hherb/bmlibrarian_lite/pull/623"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: hherb/bmlibrarian_lite #623 — fix: honor configured Ollama task context windows" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
   <a href="https://github.com/JamshidS/aiset/pull/75"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: JamshidS/aiset #75 — fix: correct teammap route methods, project frames and CLI validation" /></a>
-  <a href="https://github.com/aws-powertools/powertools-lambda-python/pull/8609"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: aws-powertools/powertools-lambda-python #8609 — fix(parameters): handle invalid UTF-8 transform errors" /></a>
-  <a href="https://github.com/davesheffer/hunch/pull/516"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: davesheffer/hunch #516 — fix: fall back when CLI adapter configuration cannot be read" /></a>
-  <a href="https://github.com/mex-memory/mex/pull/295"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: mex-memory/mex #295 — fix(setup): detect deeply nested project sources" /></a>
+  <a href="https://github.com/FactoryGameFan/factorio-blueprint-editor/pull/619"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: FactoryGameFan/factorio-blueprint-editor #619 — fix(editor): swap two-direction storage tank facings on flips" /></a>
+  <a href="https://github.com/mprov-ng/mash/pull/54"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: mprov-ng/mash #54 — fix: route plugin help through shell output" /></a>
+  <a href="https://github.com/miggle711/pycodekg/pull/174"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: miggle711/pycodekg #174 — fix: preserve header-like content in diff hunks" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
