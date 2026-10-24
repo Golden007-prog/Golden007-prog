@@ -68,10 +68,10 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/JamshidS/aiset/pull/75"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: JamshidS/aiset #75 — fix: correct teammap route methods, project frames and CLI validation" /></a>
-  <a href="https://github.com/FactoryGameFan/factorio-blueprint-editor/pull/619"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: FactoryGameFan/factorio-blueprint-editor #619 — fix(editor): swap two-direction storage tank facings on flips" /></a>
-  <a href="https://github.com/mprov-ng/mash/pull/54"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: mprov-ng/mash #54 — fix: route plugin help through shell output" /></a>
-  <a href="https://github.com/miggle711/pycodekg/pull/174"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: miggle711/pycodekg #174 — fix: preserve header-like content in diff hunks" /></a>
+  <a href="https://github.com/davesheffer/hunch/pull/516"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: davesheffer/hunch #516 — fix: fall back when CLI adapter configuration cannot be read" /></a>
+  <a href="https://github.com/JamshidS/aiset/pull/75"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: JamshidS/aiset #75 — fix: correct teammap route methods, project frames and CLI validation" /></a>
+  <a href="https://github.com/FactoryGameFan/factorio-blueprint-editor/pull/619"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: FactoryGameFan/factorio-blueprint-editor #619 — fix(editor): swap two-direction storage tank facings on flips" /></a>
+  <a href="https://github.com/mprov-ng/mash/pull/54"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: mprov-ng/mash #54 — fix: route plugin help through shell output" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
