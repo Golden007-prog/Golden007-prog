@@ -54,7 +54,7 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="23 merged contributions, 11 open pull requests, across 33 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="23 merged contributions, 10 open pull requests, across 32 external projects" />
 
 #### Merged contributions
 
@@ -69,9 +69,9 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 
 <p align="left">
   <a href="https://github.com/mprov-ng/mash/pull/54"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: mprov-ng/mash #54 — fix: route plugin help through shell output" /></a>
-  <a href="https://github.com/davesheffer/hunch/pull/516"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: davesheffer/hunch #516 — fix: fall back when CLI adapter configuration cannot be read" /></a>
-  <a href="https://github.com/JamshidS/aiset/pull/75"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: JamshidS/aiset #75 — fix: correct teammap route methods, project frames and CLI validation" /></a>
-  <a href="https://github.com/FactoryGameFan/factorio-blueprint-editor/pull/619"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: FactoryGameFan/factorio-blueprint-editor #619 — fix(editor): swap two-direction storage tank facings on flips" /></a>
+  <a href="https://github.com/mex-memory/mex/pull/295"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: mex-memory/mex #295 — fix(setup): detect deeply nested project sources" /></a>
+  <a href="https://github.com/davesheffer/hunch/pull/516"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: davesheffer/hunch #516 — fix: fall back when CLI adapter configuration cannot be read" /></a>
+  <a href="https://github.com/JamshidS/aiset/pull/75"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: JamshidS/aiset #75 — fix: correct teammap route methods, project frames and CLI validation" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
