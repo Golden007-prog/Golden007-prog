@@ -54,15 +54,15 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="27 merged contributions, 10 open pull requests, across 35 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="28 merged contributions, 9 open pull requests, across 35 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/aws-powertools/powertools-lambda-python/pull/8609"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: aws-powertools/powertools-lambda-python #8609 — fix(parameters): handle invalid UTF-8 transform errors" /></a>
-  <a href="https://github.com/mex-memory/mex/pull/295"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: mex-memory/mex #295 — fix(setup): detect deeply nested project sources" /></a>
-  <a href="https://github.com/FactoryGameFan/factorio-blueprint-editor/pull/619"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: FactoryGameFan/factorio-blueprint-editor #619 — fix(editor): swap two-direction storage tank facings on flips" /></a>
-  <a href="https://github.com/JamshidS/aiset/pull/75"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: JamshidS/aiset #75 — fix: correct teammap route methods, project frames and CLI validation" /></a>
+  <a href="https://github.com/mprov-ng/mash/pull/54"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: mprov-ng/mash #54 — fix: route plugin help through shell output" /></a>
+  <a href="https://github.com/aws-powertools/powertools-lambda-python/pull/8609"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: aws-powertools/powertools-lambda-python #8609 — fix(parameters): handle invalid UTF-8 transform errors" /></a>
+  <a href="https://github.com/mex-memory/mex/pull/295"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: mex-memory/mex #295 — fix(setup): detect deeply nested project sources" /></a>
+  <a href="https://github.com/FactoryGameFan/factorio-blueprint-editor/pull/619"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: FactoryGameFan/factorio-blueprint-editor #619 — fix(editor): swap two-direction storage tank facings on flips" /></a>
 </p>
 
 #### Upcoming · open pull requests
