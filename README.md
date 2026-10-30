@@ -54,15 +54,15 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="34 merged contributions, 15 open pull requests, across 46 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="35 merged contributions, 14 open pull requests, across 46 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/HongTin2104/diem-chuan-vn/pull/13"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: HongTin2104/diem-chuan-vn #13 — fix(validate): check source identifiers against university and years" /></a>
-  <a href="https://github.com/gazetta-studio/gazetta-studio/pull/1580"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: gazetta-studio/gazetta-studio #1580 — fix(publish): exclude nested items from parent copies" /></a>
-  <a href="https://github.com/tomgreef/dj-toolkit/pull/125"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: tomgreef/dj-toolkit #125 — Test Python requirement hashes in workflows and lock files" /></a>
-  <a href="https://github.com/gazetta-studio/gazetta-studio/pull/1523"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: gazetta-studio/gazetta-studio #1523 — fix(validation): audit published translations in their selected locale" /></a>
+  <a href="https://github.com/ManeeshJupalle/claude-build-crew/pull/29"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: ManeeshJupalle/claude-build-crew #29 — fix(gates): use ASCII boundaries for npm and HF tokens" /></a>
+  <a href="https://github.com/HongTin2104/diem-chuan-vn/pull/13"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: HongTin2104/diem-chuan-vn #13 — fix(validate): check source identifiers against university and years" /></a>
+  <a href="https://github.com/gazetta-studio/gazetta-studio/pull/1580"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: gazetta-studio/gazetta-studio #1580 — fix(publish): exclude nested items from parent copies" /></a>
+  <a href="https://github.com/tomgreef/dj-toolkit/pull/125"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: tomgreef/dj-toolkit #125 — Test Python requirement hashes in workflows and lock files" /></a>
 </p>
 
 #### Upcoming · open pull requests
