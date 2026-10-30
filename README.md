@@ -68,10 +68,10 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/gazetta-studio/gazetta-studio/pull/1523"><img src="./assets/contributions/open-1.svg" width="400" alt="Draft: gazetta-studio/gazetta-studio #1523 — fix(validation): audit published translations in their selected locale" /></a>
-  <a href="https://github.com/stickleprojects/oolite/pull/63"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: stickleprojects/oolite #63 — fix(uitest): preserve precondition failure messages" /></a>
-  <a href="https://github.com/KritishX/leeds-scraper-web-scraper/pull/32"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: KritishX/leeds-scraper-web-scraper #32 — fix(extractors): normalize mailto contact addresses" /></a>
-  <a href="https://github.com/IP-XACT/XactFlow/pull/7"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: IP-XACT/XactFlow #7 — fix: skip plugin entry points that fail to load" /></a>
+  <a href="https://github.com/apache/ossie-converters/pull/60"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: apache/ossie-converters #60 — fix(omni): preserve dataset-scoped metrics during export" /></a>
+  <a href="https://github.com/gazetta-studio/gazetta-studio/pull/1523"><img src="./assets/contributions/open-2.svg" width="400" alt="Draft: gazetta-studio/gazetta-studio #1523 — fix(validation): audit published translations in their selected locale" /></a>
+  <a href="https://github.com/stickleprojects/oolite/pull/63"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: stickleprojects/oolite #63 — fix(uitest): preserve precondition failure messages" /></a>
+  <a href="https://github.com/KritishX/leeds-scraper-web-scraper/pull/32"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: KritishX/leeds-scraper-web-scraper #32 — fix(extractors): normalize mailto contact addresses" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
