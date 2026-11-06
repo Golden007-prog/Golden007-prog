@@ -54,7 +54,7 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="39 merged contributions, 7 open pull requests, across 43 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="39 merged contributions, 6 open pull requests, across 42 external projects" />
 
 #### Merged contributions
 
@@ -71,7 +71,7 @@ Public pull requests in other people’s repositories. Merged cards show contrib
   <a href="https://github.com/zarr-developers/numcodecs/pull/886"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: zarr-developers/numcodecs #886 — Fix LZMA container decoding with custom filters" /></a>
   <a href="https://github.com/Zendure/Zendure-HA/pull/1738"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: Zendure/Zendure-HA #1738 — fix(translations): correct SoC limit state labels" /></a>
   <a href="https://github.com/apache/ossie-converters/pull/60"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: apache/ossie-converters #60 — fix(omni): preserve dataset-scoped metrics during export" /></a>
-  <a href="https://github.com/IP-XACT/XactFlow/pull/7"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: IP-XACT/XactFlow #7 — fix: skip plugin entry points that fail to load" /></a>
+  <a href="https://github.com/reacher-z/Awesome-REA/pull/768"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: reacher-z/Awesome-REA #768 — fix: distinguish browse category descriptions" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
