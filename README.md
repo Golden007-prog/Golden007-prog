@@ -68,10 +68,10 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/zarr-developers/numcodecs/pull/886"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: zarr-developers/numcodecs #886 — Fix LZMA container decoding with custom filters" /></a>
-  <a href="https://github.com/Zendure/Zendure-HA/pull/1738"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: Zendure/Zendure-HA #1738 — fix(translations): correct SoC limit state labels" /></a>
-  <a href="https://github.com/apache/ossie-converters/pull/60"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: apache/ossie-converters #60 — fix(omni): preserve dataset-scoped metrics during export" /></a>
-  <a href="https://github.com/reacher-z/Awesome-REA/pull/768"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: reacher-z/Awesome-REA #768 — fix: distinguish browse category descriptions" /></a>
+  <a href="https://github.com/reacher-z/Awesome-REA/pull/768"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: reacher-z/Awesome-REA #768 — fix: distinguish browse category descriptions" /></a>
+  <a href="https://github.com/zarr-developers/numcodecs/pull/886"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: zarr-developers/numcodecs #886 — Fix LZMA container decoding with custom filters" /></a>
+  <a href="https://github.com/Zendure/Zendure-HA/pull/1738"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: Zendure/Zendure-HA #1738 — fix(translations): correct SoC limit state labels" /></a>
+  <a href="https://github.com/apache/ossie-converters/pull/60"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: apache/ossie-converters #60 — fix(omni): preserve dataset-scoped metrics during export" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
