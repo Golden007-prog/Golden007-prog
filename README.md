@@ -54,15 +54,15 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="46 merged contributions, 19 open pull requests, across 61 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="47 merged contributions, 18 open pull requests, across 61 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/i-smiling-buddha/ai-image-recognition-skill/pull/8"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: i-smiling-buddha/ai-image-recognition-skill #8 — Report embedded ICC profile descriptions" /></a>
-  <a href="https://github.com/apache/ossie-converters/pull/60"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: apache/ossie-converters #60 — fix(omni): preserve dataset-scoped metrics during export" /></a>
-  <a href="https://github.com/gmedia/sakala-console/pull/119"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: gmedia/sakala-console #119 — fix(console): give notification switches independent accessible descriptions" /></a>
-  <a href="https://github.com/RhinoLink-Tech/data-fabric/pull/546"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: RhinoLink-Tech/data-fabric #546 — Fix Oracle column nullability in table descriptions" /></a>
+  <a href="https://github.com/tomgreef/dj-toolkit/pull/162"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: tomgreef/dj-toolkit #162 — Expand requirement hash guard coverage" /></a>
+  <a href="https://github.com/i-smiling-buddha/ai-image-recognition-skill/pull/8"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: i-smiling-buddha/ai-image-recognition-skill #8 — Report embedded ICC profile descriptions" /></a>
+  <a href="https://github.com/apache/ossie-converters/pull/60"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: apache/ossie-converters #60 — fix(omni): preserve dataset-scoped metrics during export" /></a>
+  <a href="https://github.com/gmedia/sakala-console/pull/119"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: gmedia/sakala-console #119 — fix(console): give notification switches independent accessible descriptions" /></a>
 </p>
 
 #### Upcoming · open pull requests
