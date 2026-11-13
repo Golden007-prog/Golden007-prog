@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="42 merged contributions, 23 open pull requests, across 61 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="46 merged contributions, 19 open pull requests, across 61 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/dannkkie/pure-sift/pull/13"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: dannkkie/pure-sift #13 — test: cover homography estimation with generated correspondences" /></a>
-  <a href="https://github.com/dooly6276/claude-bulkhead/pull/13"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: dooly6276/claude-bulkhead #13 — agents: recognize Aider sessions" /></a>
-  <a href="https://github.com/GeekyAsif786/ExamSnap/pull/34"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: GeekyAsif786/ExamSnap #34 — Add an optional photo framing guide" /></a>
-  <a href="https://github.com/dylanXM/promptproof/pull/6"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: dylanXM/promptproof #6 — feat(assertions): add whitespace-trimmed not_equals check" /></a>
+  <a href="https://github.com/i-smiling-buddha/ai-image-recognition-skill/pull/8"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: i-smiling-buddha/ai-image-recognition-skill #8 — Report embedded ICC profile descriptions" /></a>
+  <a href="https://github.com/apache/ossie-converters/pull/60"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: apache/ossie-converters #60 — fix(omni): preserve dataset-scoped metrics during export" /></a>
+  <a href="https://github.com/gmedia/sakala-console/pull/119"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: gmedia/sakala-console #119 — fix(console): give notification switches independent accessible descriptions" /></a>
+  <a href="https://github.com/RhinoLink-Tech/data-fabric/pull/546"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: RhinoLink-Tech/data-fabric #546 — Fix Oracle column nullability in table descriptions" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/apache/ossie-converters/pull/60"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: apache/ossie-converters #60 — fix(omni): preserve dataset-scoped metrics during export" /></a>
-  <a href="https://github.com/semlith/semlith/pull/357"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: semlith/semlith #357 — fix: align and sort the model list" /></a>
-  <a href="https://github.com/aakash1552005/rerunner/pull/122"><img src="./assets/contributions/open-3.svg" width="400" alt="Draft: aakash1552005/rerunner #122 — feat(benchmarks): export benchmark metrics as JSON" /></a>
-  <a href="https://github.com/TonyTech404/driftbench/pull/7"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: TonyTech404/driftbench #7 — Recognize more release note migration phrasing" /></a>
+  <a href="https://github.com/semlith/semlith/pull/357"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: semlith/semlith #357 — fix: align and sort the model list" /></a>
+  <a href="https://github.com/aakash1552005/rerunner/pull/122"><img src="./assets/contributions/open-2.svg" width="400" alt="Draft: aakash1552005/rerunner #122 — feat(benchmarks): export benchmark metrics as JSON" /></a>
+  <a href="https://github.com/TonyTech404/driftbench/pull/7"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: TonyTech404/driftbench #7 — Recognize more release note migration phrasing" /></a>
+  <a href="https://github.com/AubaidFarrukh/smart-retry/pull/82"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: AubaidFarrukh/smart-retry #82 — docs: clarify that maxRetries includes the first attempt" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
