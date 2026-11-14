@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="48 merged contributions, 17 open pull requests, across 61 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="49 merged contributions, 16 open pull requests, across 61 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/Zendure/Zendure-HA/pull/1738"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: Zendure/Zendure-HA #1738 — fix(translations): correct SoC limit state labels" /></a>
-  <a href="https://github.com/tomgreef/dj-toolkit/pull/162"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: tomgreef/dj-toolkit #162 — Expand requirement hash guard coverage" /></a>
-  <a href="https://github.com/i-smiling-buddha/ai-image-recognition-skill/pull/8"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: i-smiling-buddha/ai-image-recognition-skill #8 — Report embedded ICC profile descriptions" /></a>
-  <a href="https://github.com/apache/ossie-converters/pull/60"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: apache/ossie-converters #60 — fix(omni): preserve dataset-scoped metrics during export" /></a>
+  <a href="https://github.com/lumarispro/lava-provider-exporter/pull/2"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: lumarispro/lava-provider-exporter #2 — fix: retry transient Lava REST poll failures" /></a>
+  <a href="https://github.com/Zendure/Zendure-HA/pull/1738"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: Zendure/Zendure-HA #1738 — fix(translations): correct SoC limit state labels" /></a>
+  <a href="https://github.com/tomgreef/dj-toolkit/pull/162"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: tomgreef/dj-toolkit #162 — Expand requirement hash guard coverage" /></a>
+  <a href="https://github.com/i-smiling-buddha/ai-image-recognition-skill/pull/8"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: i-smiling-buddha/ai-image-recognition-skill #8 — Report embedded ICC profile descriptions" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/semlith/semlith/pull/357"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: semlith/semlith #357 — fix: align and sort the model list" /></a>
-  <a href="https://github.com/aakash1552005/rerunner/pull/122"><img src="./assets/contributions/open-2.svg" width="400" alt="Draft: aakash1552005/rerunner #122 — feat(benchmarks): export benchmark metrics as JSON" /></a>
-  <a href="https://github.com/TonyTech404/driftbench/pull/7"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: TonyTech404/driftbench #7 — Recognize more release note migration phrasing" /></a>
-  <a href="https://github.com/AubaidFarrukh/smart-retry/pull/82"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: AubaidFarrukh/smart-retry #82 — docs: clarify that maxRetries includes the first attempt" /></a>
+  <a href="https://github.com/GillMacedo/flaggap/pull/5"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: GillMacedo/flaggap #5 — fix: suggest normalized long flags for single-dash arguments" /></a>
+  <a href="https://github.com/semlith/semlith/pull/357"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: semlith/semlith #357 — fix: align and sort the model list" /></a>
+  <a href="https://github.com/aakash1552005/rerunner/pull/122"><img src="./assets/contributions/open-3.svg" width="400" alt="Draft: aakash1552005/rerunner #122 — feat(benchmarks): export benchmark metrics as JSON" /></a>
+  <a href="https://github.com/TonyTech404/driftbench/pull/7"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: TonyTech404/driftbench #7 — Recognize more release note migration phrasing" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
