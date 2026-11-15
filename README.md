@@ -52,6 +52,15 @@ I’ve completed **dMAT and APS**, with **IELTS and GRE still ahead**. I contrib
 
 Scan the QR code or visit [paypal.me/OikantikBasu](https://paypal.me/OikantikBasu). Thank you for considering supporting my studies or sharing this page.
 
+**Google Pay / UPI — India only**
+
+For supporters in India: scan this QR code with Google Pay or another UPI app.
+
+<img src="./assets/gpay-oikantik-basu-qr.jpeg" width="320" alt="Google Pay / UPI QR for Oikantik Basu — India only; UPI ID basuoikantik-2@okicici" />
+
+**UPI ID:** `basuoikantik-2@okicici`  
+**Recipient:** Oikantik Basu
+
 [**Contact me about donating**](mailto:basuoikantik@gmail.com?subject=Germany%20master%27s%20fundraiser)
 
 ### Selected work
