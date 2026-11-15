@@ -33,6 +33,19 @@ I'm interested in **remote Generative AI Engineer, Applied AI Engineer and AI-fo
 - **Hackathons:** My team’s **VyaparGyan** project was a **Top 36 finalist at AI for Bharat**, powered by AWS with Hack2skill. [Background and achievements →](https://basuoikantik.in/#experience)
 - **Experiments:** Published a [Kaggle writeup on fine-tuning Gemma 3 for verifiable reasoning](https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/new-writeup-1767949274949).
 
+### Help me pursue a master’s in Germany
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/education-goal.png" />
+  <img src="./assets/education-goal.gif" width="100%" alt="Fundraising goal of €40,000 by January 2027 for a master’s programme in Germany" />
+</picture>
+
+I’m raising **€40,000 by January 2027** to help fund a master’s programme in Germany. If I fall short of the goal, I plan to try again the following year.
+
+If you’re able to donate, I’d be grateful for any amount you’re comfortable giving. Sharing this page also helps. Thank you for considering it.
+
+[**Contact me about donating**](mailto:basuoikantik@gmail.com?subject=Germany%20master%27s%20fundraiser)
+
 ### Selected work
 
 A selection of my independent projects, capstone work and team hackathon builds.
