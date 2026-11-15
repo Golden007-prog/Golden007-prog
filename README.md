@@ -33,36 +33,6 @@ I'm interested in **remote Generative AI Engineer, Applied AI Engineer and AI-fo
 - **Hackathons:** My team’s **VyaparGyan** project was a **Top 36 finalist at AI for Bharat**, powered by AWS with Hack2skill. [Background and achievements →](https://basuoikantik.in/#experience)
 - **Experiments:** Published a [Kaggle writeup on fine-tuning Gemma 3 for verifiable reasoning](https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/new-writeup-1767949274949).
 
-### Help me pursue a master’s in Germany
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/education-goal.png" />
-  <img src="./assets/education-goal.gif" width="100%" alt="Fundraising goal of €40,000 by January 2027 for a master’s programme in Germany" />
-</picture>
-
-I’m based in India and aiming to raise **€40,000 by January 2027** to support applications and a master’s programme in Germany. I plan to apply in **January 2027 to several German universities**; my final university will depend on admission offers.
-
-I’ve completed **dMAT and APS**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions.
-
-[**Support via PayPal →**](https://paypal.me/OikantikBasu)
-
-<a href="https://paypal.me/OikantikBasu">
-  <img src="./assets/paypal-oikantik-basu-qr.png" width="259" height="259" alt="QR code for Oikantik Basu's PayPal page: https://paypal.me/OikantikBasu" />
-</a>
-
-Scan the QR code or visit [paypal.me/OikantikBasu](https://paypal.me/OikantikBasu). Thank you for considering supporting my studies or sharing this page.
-
-**Google Pay / UPI — India only**
-
-For supporters in India: scan this QR code with Google Pay or another UPI app.
-
-<img src="./assets/gpay-oikantik-basu-qr.jpeg" width="320" alt="Google Pay / UPI QR for Oikantik Basu — India only; UPI ID basuoikantik-2@okicici" />
-
-**UPI ID:** `basuoikantik-2@okicici`  
-**Recipient:** Oikantik Basu
-
-[**Contact me about donating**](mailto:basuoikantik@gmail.com?subject=Germany%20master%27s%20fundraiser)
-
 ### Selected work
 
 A selection of my independent projects, capstone work and team hackathon builds.
@@ -105,6 +75,36 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
+
+### Help me pursue a master’s in Germany
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/education-goal.png" />
+  <img src="./assets/education-goal.gif" width="100%" alt="Fundraising goal of €40,000 by January 2027 for a master’s programme in Germany" />
+</picture>
+
+I’m based in India and aiming to raise **€40,000 by January 2027** to support applications and a master’s programme in Germany. I plan to apply in **January 2027 to several German universities**; my final university will depend on admission offers.
+
+I’ve completed **dMAT and APS**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions.
+
+[**Support via PayPal →**](https://paypal.me/OikantikBasu)
+
+<a href="https://paypal.me/OikantikBasu">
+  <img src="./assets/paypal-oikantik-basu-qr.png" width="259" height="259" alt="QR code for Oikantik Basu's PayPal page: https://paypal.me/OikantikBasu" />
+</a>
+
+Scan the QR code or visit [paypal.me/OikantikBasu](https://paypal.me/OikantikBasu). Thank you for considering supporting my studies or sharing this page.
+
+**Google Pay / UPI — India only**
+
+For supporters in India: scan this QR code with Google Pay or another UPI app.
+
+<img src="./assets/gpay-oikantik-basu-qr.jpeg" width="320" alt="Google Pay / UPI QR for Oikantik Basu — India only; UPI ID basuoikantik-2@okicici" />
+
+**UPI ID:** `basuoikantik-2@okicici`  
+**Recipient:** Oikantik Basu
+
+[**Contact me about donating**](mailto:basuoikantik@gmail.com?subject=Germany%20master%27s%20fundraiser)
 
 <!-- CONTRIBUTION-CARDS:END -->
 
