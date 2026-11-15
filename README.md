@@ -40,9 +40,11 @@ I'm interested in **remote Generative AI Engineer, Applied AI Engineer and AI-fo
   <img src="./assets/education-goal.gif" width="100%" alt="Fundraising goal of €40,000 by January 2027 for a master’s programme in Germany" />
 </picture>
 
-I’m raising **€40,000 by January 2027** to help fund a master’s programme in Germany. If I fall short of the goal, I plan to try again the following year.
+I’m based in India and aiming to raise **€40,000 by January 2027** to support applications and a master’s programme in Germany. I plan to apply in **January 2027 to several German universities**; my final university will depend on admission offers.
 
-If you’re able to donate, I’d be grateful for any amount you’re comfortable giving. Sharing this page also helps. Thank you for considering it.
+I’ve completed **dMAT and APS**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions. I currently earn about **US$40 a month from remote work**, and my father is retired.
+
+**Fundraiser status:** I’m arranging the donation page and will add the verified link here when it is ready. Thank you for considering supporting my studies or sharing this page.
 
 [**Contact me about donating**](mailto:basuoikantik@gmail.com?subject=Germany%20master%27s%20fundraiser)
 
