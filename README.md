@@ -69,24 +69,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="49 merged contributions, 16 open pull requests, across 61 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="54 merged contributions, 22 open pull requests, across 71 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/lumarispro/lava-provider-exporter/pull/2"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: lumarispro/lava-provider-exporter #2 — fix: retry transient Lava REST poll failures" /></a>
-  <a href="https://github.com/Zendure/Zendure-HA/pull/1738"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: Zendure/Zendure-HA #1738 — fix(translations): correct SoC limit state labels" /></a>
-  <a href="https://github.com/tomgreef/dj-toolkit/pull/162"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: tomgreef/dj-toolkit #162 — Expand requirement hash guard coverage" /></a>
-  <a href="https://github.com/i-smiling-buddha/ai-image-recognition-skill/pull/8"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: i-smiling-buddha/ai-image-recognition-skill #8 — Report embedded ICC profile descriptions" /></a>
+  <a href="https://github.com/lakshaychhaba0001-sys/openbench-ai/pull/97"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: lakshaychhaba0001-sys/openbench-ai #97 — docs: add a glossary for statistical report terms" /></a>
+  <a href="https://github.com/wheelgap/wheelgap/pull/340"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: wheelgap/wheelgap #340 — docs: add a nox recipe for wheelgap" /></a>
+  <a href="https://github.com/nielsencampos/chess-trainer/pull/40"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: nielsencampos/chess-trainer #40 — Add a translation correction issue form" /></a>
+  <a href="https://github.com/CrAnish07/Wavewright/pull/7"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: CrAnish07/Wavewright #7 — test: add offline Wavewright CLI coverage" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/GillMacedo/flaggap/pull/5"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: GillMacedo/flaggap #5 — fix: suggest normalized long flags for single-dash arguments" /></a>
-  <a href="https://github.com/semlith/semlith/pull/357"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: semlith/semlith #357 — fix: align and sort the model list" /></a>
-  <a href="https://github.com/aakash1552005/rerunner/pull/122"><img src="./assets/contributions/open-3.svg" width="400" alt="Draft: aakash1552005/rerunner #122 — feat(benchmarks): export benchmark metrics as JSON" /></a>
-  <a href="https://github.com/TonyTech404/driftbench/pull/7"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: TonyTech404/driftbench #7 — Recognize more release note migration phrasing" /></a>
+  <a href="https://github.com/Gamperle/Collagio/pull/42"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: Gamperle/Collagio #42 — Hide missing recent projects and add a clear action" /></a>
+  <a href="https://github.com/baryonlabs/macmini-ops/pull/14"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: baryonlabs/macmini-ops #14 — feat: show uptime and load on the host card" /></a>
+  <a href="https://github.com/GillMacedo/flaggap/pull/5"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: GillMacedo/flaggap #5 — fix: suggest normalized long flags for single-dash arguments" /></a>
+  <a href="https://github.com/flisk-sh/gardener/pull/13"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: flisk-sh/gardener #13 — fix: show an HTML 404 page for browser requests" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
