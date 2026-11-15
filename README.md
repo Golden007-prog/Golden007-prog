@@ -42,7 +42,7 @@ I'm interested in **remote Generative AI Engineer, Applied AI Engineer and AI-fo
 
 I’m based in India and aiming to raise **€40,000 by January 2027** to support applications and a master’s programme in Germany. I plan to apply in **January 2027 to several German universities**; my final university will depend on admission offers.
 
-I’ve completed **dMAT and APS**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions. I currently earn about **US$40 a month from remote work**, and my father is retired.
+I’ve completed **dMAT and APS**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions.
 
 [**Support via PayPal →**](https://paypal.me/OikantikBasu)
 
