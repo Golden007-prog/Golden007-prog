@@ -44,7 +44,13 @@ I’m based in India and aiming to raise **€40,000 by January 2027** to suppor
 
 I’ve completed **dMAT and APS**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions. I currently earn about **US$40 a month from remote work**, and my father is retired.
 
-**Fundraiser status:** I’m arranging the donation page and will add the verified link here when it is ready. Thank you for considering supporting my studies or sharing this page.
+[**Support via PayPal →**](https://paypal.me/OikantikBasu)
+
+<a href="https://paypal.me/OikantikBasu">
+  <img src="./assets/paypal-oikantik-basu-qr.png" width="259" height="259" alt="QR code for Oikantik Basu's PayPal page: https://paypal.me/OikantikBasu" />
+</a>
+
+Scan the QR code or visit [paypal.me/OikantikBasu](https://paypal.me/OikantikBasu). Thank you for considering supporting my studies or sharing this page.
 
 [**Contact me about donating**](mailto:basuoikantik@gmail.com?subject=Germany%20master%27s%20fundraiser)
 
