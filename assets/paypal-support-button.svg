@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="64" viewBox="0 0 342 64" role="img" aria-labelledby="title">
+  <title id="title">Support via PayPal</title>
+  <rect x="1" y="1" width="340" height="62" rx="12" fill="#9cf0d0"/>
+  <text x="25" y="41" fill="#10232d" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Support via PayPal</text>
+  <path d="M295 32h20m-6-6 6 6-6 6" fill="none" stroke="#10232d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

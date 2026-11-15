@@ -76,12 +76,22 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
 
+<!-- CONTRIBUTION-CARDS:END -->
+
 ### Help me pursue a master’s in Germany
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/education-goal.png" />
-  <img src="./assets/education-goal.gif" width="100%" alt="Fundraising goal of €40,000 by January 2027 for a master’s programme in Germany" />
-</picture>
+<a href="https://paypal.me/OikantikBasu">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/education-progress.png" />
+    <img src="./assets/education-progress.gif" width="100%" alt="€1,583 raised toward my €40,000 master's goal in Germany: 3.96% funded, €38,417 remaining. Fundraising continues until January 2027." />
+  </picture>
+</a>
+
+<p>
+  <a href="https://paypal.me/OikantikBasu"><img src="./assets/paypal-support-button.svg" width="280" alt="Support via PayPal — opens Oikantik Basu's PayPal page" /></a>
+</p>
+
+**€1,583 raised of €40,000 · 3.96% funded · €38,417 remaining.** Updated 16 November 2026.
 
 I’m based in India and aiming to raise **€40,000 by January 2027** to support applications and a master’s programme in Germany. I plan to apply in **January 2027 to several German universities**; my final university will depend on admission offers.
 
@@ -105,8 +115,6 @@ For supporters in India: scan this QR code with Google Pay or another UPI app.
 **Recipient:** Oikantik Basu
 
 [**Contact me about donating**](mailto:basuoikantik@gmail.com?subject=Germany%20master%27s%20fundraiser)
-
-<!-- CONTRIBUTION-CARDS:END -->
 
 ### Tools I work with
 
