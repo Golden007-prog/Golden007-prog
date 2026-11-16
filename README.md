@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="54 merged contributions, 22 open pull requests, across 71 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="75 merged contributions, 56 open pull requests, across 109 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/lakshaychhaba0001-sys/openbench-ai/pull/97"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: lakshaychhaba0001-sys/openbench-ai #97 — docs: add a glossary for statistical report terms" /></a>
-  <a href="https://github.com/wheelgap/wheelgap/pull/340"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: wheelgap/wheelgap #340 — docs: add a nox recipe for wheelgap" /></a>
-  <a href="https://github.com/nielsencampos/chess-trainer/pull/40"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: nielsencampos/chess-trainer #40 — Add a translation correction issue form" /></a>
-  <a href="https://github.com/CrAnish07/Wavewright/pull/7"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: CrAnish07/Wavewright #7 — test: add offline Wavewright CLI coverage" /></a>
+  <a href="https://github.com/sara-czasak/py-simple-wrap/pull/648"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: sara-czasak/py-simple-wrap #648 — docs: build a backyard bird log with Easy CSV and Easy Lists" /></a>
+  <a href="https://github.com/lakshaychhaba0001-sys/openbench-ai/pull/121"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: lakshaychhaba0001-sys/openbench-ai #121 — Export wide-run metrics as individual columns" /></a>
+  <a href="https://github.com/chrisbloom7/to-wit/pull/83"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: chrisbloom7/to-wit #83 — feat: add Bash and Zsh completion for towit" /></a>
+  <a href="https://github.com/lakshaychhaba0001-sys/openbench-ai/pull/115"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: lakshaychhaba0001-sys/openbench-ai #115 — Add CSV and Markdown formats to runs list" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/Gamperle/Collagio/pull/42"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: Gamperle/Collagio #42 — Hide missing recent projects and add a clear action" /></a>
-  <a href="https://github.com/baryonlabs/macmini-ops/pull/14"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: baryonlabs/macmini-ops #14 — feat: show uptime and load on the host card" /></a>
-  <a href="https://github.com/GillMacedo/flaggap/pull/5"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: GillMacedo/flaggap #5 — fix: suggest normalized long flags for single-dash arguments" /></a>
-  <a href="https://github.com/flisk-sh/gardener/pull/13"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: flisk-sh/gardener #13 — fix: show an HTML 404 page for browser requests" /></a>
+  <a href="https://github.com/merlinseela/i40-saftch/pull/14"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: merlinseela/i40-saftch #14 — ci(repo): lint conventional pull request titles" /></a>
+  <a href="https://github.com/Ransomwave/azul/pull/91"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: Ransomwave/azul #91 — Allow pushing multiple script files to one destination" /></a>
+  <a href="https://github.com/WingedGuardian/GENesis-AGI/pull/4783"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: WingedGuardian/GENesis-AGI #4783 — test(observability): isolate logging configuration" /></a>
+  <a href="https://github.com/neomjs/neo-agent-brain/pull/1790"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: neomjs/neo-agent-brain #1790 — fix(docs): repair stale Brain guide links" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
