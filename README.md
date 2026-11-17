@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="89 merged contributions, 39 open pull requests, across 106 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="92 merged contributions, 36 open pull requests, across 106 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/kcenon/dcmtk-docker/pull/144"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: kcenon/dcmtk-docker #144 — Align DICOM Docker docs with current configuration and CLI" /></a>
-  <a href="https://github.com/WingedGuardian/GENesis-AGI/pull/4783"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: WingedGuardian/GENesis-AGI #4783 — test(observability): isolate logging configuration" /></a>
-  <a href="https://github.com/hocinehacherouf/liberarr/pull/72"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: hocinehacherouf/liberarr #72 — Allow rerunning any recording step in the web UI" /></a>
-  <a href="https://github.com/abhi478jeetur-rgb/env-saaf/pull/78"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: abhi478jeetur-rgb/env-saaf #78 — Test seeded combinations of dotenv syntax" /></a>
+  <a href="https://github.com/pinjun99/systematic-review-skills/pull/23"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: pinjun99/systematic-review-skills #23 — Add other methods to PRISMA flow diagrams" /></a>
+  <a href="https://github.com/ddeuchert/logaperture/pull/391"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: ddeuchert/logaperture #391 — Explain the WildFly premain logging boundary" /></a>
+  <a href="https://github.com/TMHSDigital/Awesome-Ads/pull/43"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: TMHSDigital/Awesome-Ads #43 — Show editorial review dates on guides" /></a>
+  <a href="https://github.com/kcenon/dcmtk-docker/pull/144"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: kcenon/dcmtk-docker #144 — Align DICOM Docker docs with current configuration and CLI" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/TMHSDigital/Awesome-Ads/pull/43"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: TMHSDigital/Awesome-Ads #43 — Show editorial review dates on guides" /></a>
-  <a href="https://github.com/merlinseela/i40-saftch/pull/14"><img src="./assets/contributions/open-2.svg" width="400" alt="Draft: merlinseela/i40-saftch #14 — ci(repo): lint conventional pull request titles" /></a>
-  <a href="https://github.com/laaielichter/Agentdisk/pull/59"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: laaielichter/Agentdisk #59 — fix(cli): honor subcommand help" /></a>
-  <a href="https://github.com/organicmaps/organicmaps/pull/14237"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: organicmaps/organicmaps #14237 — [editor] Name crosses in changeset comments" /></a>
+  <a href="https://github.com/merlinseela/i40-saftch/pull/14"><img src="./assets/contributions/open-1.svg" width="400" alt="Draft: merlinseela/i40-saftch #14 — ci(repo): lint conventional pull request titles" /></a>
+  <a href="https://github.com/laaielichter/Agentdisk/pull/59"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: laaielichter/Agentdisk #59 — fix(cli): honor subcommand help" /></a>
+  <a href="https://github.com/organicmaps/organicmaps/pull/14237"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: organicmaps/organicmaps #14237 — [editor] Name crosses in changeset comments" /></a>
+  <a href="https://github.com/Ransomwave/azul/pull/91"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: Ransomwave/azul #91 — Allow pushing multiple script files to one destination" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
