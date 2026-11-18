@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="95 merged contributions, 32 open pull requests, across 105 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="111 merged contributions, 125 open pull requests, across 201 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/corail-labs/labcraft/pull/170"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: corail-labs/labcraft #170 — Correct variadic primitive notation" /></a>
-  <a href="https://github.com/kavianpcx/linksunder/pull/4"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: kavianpcx/linksunder #4 — Clarify how run timestamps are displayed" /></a>
-  <a href="https://github.com/Mickyj70/sky/pull/13"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: Mickyj70/sky #13 — Add coordinate-based command help examples" /></a>
-  <a href="https://github.com/pinjun99/systematic-review-skills/pull/23"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: pinjun99/systematic-review-skills #23 — Add other methods to PRISMA flow diagrams" /></a>
+  <a href="https://github.com/TanbirRamim/too-fresh/pull/6"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: TanbirRamim/too-fresh #6 — Support Pipenv lockfiles" /></a>
+  <a href="https://github.com/Kal1010101/ultimate-sys-hardening/pull/10"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: Kal1010101/ultimate-sys-hardening #10 — Document the free-tier hardening menu and full revert" /></a>
+  <a href="https://github.com/BipinBudhathoki01/claude-aso/pull/8"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: BipinBudhathoki01/claude-aso #8 — Add a worked competitor research report" /></a>
+  <a href="https://github.com/C4rohan/Lampline/pull/112"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: C4rohan/Lampline #112 — Add JUnit reports to vk test" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/laaielichter/Agentdisk/pull/59"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: laaielichter/Agentdisk #59 — fix(cli): honor subcommand help" /></a>
-  <a href="https://github.com/merlinseela/i40-saftch/pull/14"><img src="./assets/contributions/open-2.svg" width="400" alt="Draft: merlinseela/i40-saftch #14 — ci(repo): lint conventional pull request titles" /></a>
-  <a href="https://github.com/organicmaps/organicmaps/pull/14237"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: organicmaps/organicmaps #14237 — [editor] Name crosses in changeset comments" /></a>
-  <a href="https://github.com/Ransomwave/azul/pull/91"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: Ransomwave/azul #91 — Allow pushing multiple script files to one destination" /></a>
+  <a href="https://github.com/deeptelar/telar/pull/213"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: deeptelar/telar #213 — Docs: Explain supported versions and releases" /></a>
+  <a href="https://github.com/goldener-data/goldener/pull/442"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: goldener-data/goldener #442 — Omit absent labels from selection and weighing logs" /></a>
+  <a href="https://github.com/namiq-ai/devkb/pull/152"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: namiq-ai/devkb #152 — Record graph misses from single-file grep output" /></a>
+  <a href="https://github.com/surkuar/testledger/pull/8"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: surkuar/testledger #8 — feat: compare saved ledger reports" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
