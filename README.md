@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="111 merged contributions, 125 open pull requests, across 201 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="141 merged contributions, 93 open pull requests, across 199 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/TanbirRamim/too-fresh/pull/6"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: TanbirRamim/too-fresh #6 — Support Pipenv lockfiles" /></a>
-  <a href="https://github.com/Kal1010101/ultimate-sys-hardening/pull/10"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: Kal1010101/ultimate-sys-hardening #10 — Document the free-tier hardening menu and full revert" /></a>
-  <a href="https://github.com/BipinBudhathoki01/claude-aso/pull/8"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: BipinBudhathoki01/claude-aso #8 — Add a worked competitor research report" /></a>
-  <a href="https://github.com/C4rohan/Lampline/pull/112"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: C4rohan/Lampline #112 — Add JUnit reports to vk test" /></a>
+  <a href="https://github.com/tomi3-11/sentinel-monitor/pull/48"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: tomi3-11/sentinel-monitor #48 — Test CLI help and version options without running checks" /></a>
+  <a href="https://github.com/RakTikoo/phantomdep-pr-gate/pull/8"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: RakTikoo/phantomdep-pr-gate #8 — Test annotation-only imports in the corpus" /></a>
+  <a href="https://github.com/RakTikoo/living-contract-diff/pull/4"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: RakTikoo/living-contract-diff #4 — Test traffic with an undocumented success status" /></a>
+  <a href="https://github.com/userfypp/phasewise/pull/208"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: userfypp/phasewise #208 — docs: explain scripting and CI with phasewise" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/deeptelar/telar/pull/213"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: deeptelar/telar #213 — Docs: Explain supported versions and releases" /></a>
-  <a href="https://github.com/goldener-data/goldener/pull/442"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: goldener-data/goldener #442 — Omit absent labels from selection and weighing logs" /></a>
-  <a href="https://github.com/namiq-ai/devkb/pull/152"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: namiq-ai/devkb #152 — Record graph misses from single-file grep output" /></a>
-  <a href="https://github.com/surkuar/testledger/pull/8"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: surkuar/testledger #8 — feat: compare saved ledger reports" /></a>
+  <a href="https://github.com/mrijk/py-predicate/pull/428"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: mrijk/py-predicate #428 — Add a substring containment predicate" /></a>
+  <a href="https://github.com/mrijk/py-predicate/pull/429"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: mrijk/py-predicate #429 — Add iterable uniqueness predicates" /></a>
+  <a href="https://github.com/reacher-z/Awesome-REA/pull/768"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: reacher-z/Awesome-REA #768 — fix: distinguish browse category descriptions" /></a>
+  <a href="https://github.com/bartoszclapinski/TokenMuncher/pull/21"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: bartoszclapinski/TokenMuncher #21 — Export retained usage history as CSV or JSON" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
