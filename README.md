@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="148 merged contributions, 86 open pull requests, across 199 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="158 merged contributions, 76 open pull requests, across 199 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/rshade/finfocus-action/pull/147"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: rshade/finfocus-action #147 — docs: fix registry plugin names in setup examples" /></a>
-  <a href="https://github.com/surkuar/testledger/pull/8"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: surkuar/testledger #8 — feat: compare saved ledger reports" /></a>
-  <a href="https://github.com/permacommons/agpwiki/pull/139"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: permacommons/agpwiki #139 — fix: credit infobox range maps" /></a>
-  <a href="https://github.com/pklink/presswerk/pull/53"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: pklink/presswerk #53 — fix: show a default preorder cover image" /></a>
+  <a href="https://github.com/shimpeiws/yuurei/pull/247"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: shimpeiws/yuurei #247 — fix: expose run ID on JSON completion" /></a>
+  <a href="https://github.com/RakTikoo/expiry-radar/pull/7"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: RakTikoo/expiry-radar #7 — Test prose renewal dates in the corpus" /></a>
+  <a href="https://github.com/mahmoud-emad/opennotebook/pull/46"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: mahmoud-emad/opennotebook #46 — docs: explain first-run troubleshooting" /></a>
+  <a href="https://github.com/mrijk/py-predicate/pull/428"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: mrijk/py-predicate #428 — Add a substring containment predicate" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/Chain-Love/chain-love/pull/5430"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: Chain-Love/chain-love #5430 — data(algorand): list the Conduit LocalNet Importer" /></a>
-  <a href="https://github.com/mrijk/py-predicate/pull/428"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: mrijk/py-predicate #428 — Add a substring containment predicate" /></a>
-  <a href="https://github.com/mrijk/py-predicate/pull/429"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: mrijk/py-predicate #429 — Add iterable uniqueness predicates" /></a>
-  <a href="https://github.com/reacher-z/Awesome-REA/pull/768"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: reacher-z/Awesome-REA #768 — fix: distinguish browse category descriptions" /></a>
+  <a href="https://github.com/AntelopeJS/dms-assistant/pull/110"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: AntelopeJS/dms-assistant #110 — feat(chat): confirm copied assistant answers" /></a>
+  <a href="https://github.com/Chain-Love/chain-love/pull/5430"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: Chain-Love/chain-love #5430 — data(algorand): list the Conduit LocalNet Importer" /></a>
+  <a href="https://github.com/reacher-z/Awesome-REA/pull/768"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: reacher-z/Awesome-REA #768 — fix: distinguish browse category descriptions" /></a>
+  <a href="https://github.com/bartoszclapinski/TokenMuncher/pull/21"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: bartoszclapinski/TokenMuncher #21 — Export retained usage history as CSV or JSON" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
