@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="165 merged contributions, 68 open pull requests, across 198 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="168 merged contributions, 65 open pull requests, across 198 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/tigrbl/tigrbl/pull/52"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: tigrbl/tigrbl #52 — docs: link the examples to Tigrbl Skills" /></a>
-  <a href="https://github.com/ruohai0925/IAMReX/pull/100"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: ruohai0925/IAMReX #100 — Declare Python dependencies for the RKPM and ls2d tools" /></a>
-  <a href="https://github.com/AntelopeJS/dms-assistant/pull/110"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: AntelopeJS/dms-assistant #110 — feat(chat): confirm copied assistant answers" /></a>
-  <a href="https://github.com/StevenMcGann/NewsDesk-RSS-Dashboard/pull/20"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: StevenMcGann/NewsDesk-RSS-Dashboard #20 — Keep dialog Enter from interrupting IME composition" /></a>
+  <a href="https://github.com/sorotrail/SoroVista/pull/148"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: sorotrail/SoroVista #148 — test: verify ingester recovery after transient failures" /></a>
+  <a href="https://github.com/TM-59/circuit-shift/pull/15"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: TM-59/circuit-shift #15 — Make theory figure generation deterministic" /></a>
+  <a href="https://github.com/GillMacedo/pgostale/pull/11"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: GillMacedo/pgostale #11 — fix: resolve compiler positions from trimpath builds" /></a>
+  <a href="https://github.com/tigrbl/tigrbl/pull/52"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: tigrbl/tigrbl #52 — docs: link the examples to Tigrbl Skills" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/ruohai0925/IAMReX/pull/99"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: ruohai0925/IAMReX #99 — Document spherical and ellipsoidal immersed particles" /></a>
-  <a href="https://github.com/Sibyl-Labs/Sibyl-Memory/pull/37"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: Sibyl-Labs/Sibyl-Memory #37 — docs: document Cursor and Grok Bot MCP setup" /></a>
-  <a href="https://github.com/Chain-Love/chain-love/pull/5430"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: Chain-Love/chain-love #5430 — data(algorand): list the Conduit LocalNet Importer" /></a>
-  <a href="https://github.com/reacher-z/Awesome-REA/pull/768"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: reacher-z/Awesome-REA #768 — fix: distinguish browse category descriptions" /></a>
+  <a href="https://github.com/GillMacedo/flaggap/pull/5"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: GillMacedo/flaggap #5 — fix: suggest normalized long flags for single-dash arguments" /></a>
+  <a href="https://github.com/ruohai0925/IAMReX/pull/99"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: ruohai0925/IAMReX #99 — Document spherical and ellipsoidal immersed particles" /></a>
+  <a href="https://github.com/Sibyl-Labs/Sibyl-Memory/pull/37"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: Sibyl-Labs/Sibyl-Memory #37 — docs: document Cursor and Grok Bot MCP setup" /></a>
+  <a href="https://github.com/Chain-Love/chain-love/pull/5430"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: Chain-Love/chain-love #5430 — data(algorand): list the Conduit LocalNet Importer" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
