@@ -54,15 +54,15 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="170 merged contributions, 63 open pull requests, across 198 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="171 merged contributions, 61 open pull requests, across 197 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/Juneo-Lab/decision-forge/pull/87"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: Juneo-Lab/decision-forge #87 — Preserve evidence offsets across CJK line wraps" /></a>
-  <a href="https://github.com/TusanHomichi/PSIV/pull/754"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: TusanHomichi/PSIV #754 — gate: run all cargo test binaries after a failure" /></a>
-  <a href="https://github.com/sorotrail/SoroVista/pull/148"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: sorotrail/SoroVista #148 — test: verify ingester recovery after transient failures" /></a>
-  <a href="https://github.com/TM-59/circuit-shift/pull/15"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: TM-59/circuit-shift #15 — Make theory figure generation deterministic" /></a>
+  <a href="https://github.com/GiZano/leetcode-journey-template/pull/27"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: GiZano/leetcode-journey-template #27 — test: cover README generator behavior" /></a>
+  <a href="https://github.com/Juneo-Lab/decision-forge/pull/87"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: Juneo-Lab/decision-forge #87 — Preserve evidence offsets across CJK line wraps" /></a>
+  <a href="https://github.com/TusanHomichi/PSIV/pull/754"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: TusanHomichi/PSIV #754 — gate: run all cargo test binaries after a failure" /></a>
+  <a href="https://github.com/sorotrail/SoroVista/pull/148"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: sorotrail/SoroVista #148 — test: verify ingester recovery after transient failures" /></a>
 </p>
 
 #### Upcoming · open pull requests
