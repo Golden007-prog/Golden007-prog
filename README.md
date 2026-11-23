@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="171 merged contributions, 61 open pull requests, across 197 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="174 merged contributions, 58 open pull requests, across 197 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/GiZano/leetcode-journey-template/pull/27"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: GiZano/leetcode-journey-template #27 — test: cover README generator behavior" /></a>
-  <a href="https://github.com/Juneo-Lab/decision-forge/pull/87"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: Juneo-Lab/decision-forge #87 — Preserve evidence offsets across CJK line wraps" /></a>
-  <a href="https://github.com/TusanHomichi/PSIV/pull/754"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: TusanHomichi/PSIV #754 — gate: run all cargo test binaries after a failure" /></a>
-  <a href="https://github.com/sorotrail/SoroVista/pull/148"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: sorotrail/SoroVista #148 — test: verify ingester recovery after transient failures" /></a>
+  <a href="https://github.com/flisk-sh/awesome-flisk-framework/pull/23"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: flisk-sh/awesome-flisk-framework #23 — ci: check README links and replace the missing benchmark article" /></a>
+  <a href="https://github.com/flisk-sh/live-preview/pull/13"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: flisk-sh/live-preview #13 — Reject API errors as quick-tunnel URLs" /></a>
+  <a href="https://github.com/flisk-sh/cfworker2browser/pull/4"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: flisk-sh/cfworker2browser #4 — Count D1 script statements accurately" /></a>
+  <a href="https://github.com/GiZano/leetcode-journey-template/pull/27"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: GiZano/leetcode-journey-template #27 — test: cover README generator behavior" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/GillMacedo/flaggap/pull/5"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: GillMacedo/flaggap #5 — fix: suggest normalized long flags for single-dash arguments" /></a>
-  <a href="https://github.com/baryonlabs/macmini-ops/pull/14"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: baryonlabs/macmini-ops #14 — feat: show uptime and load on the host card" /></a>
-  <a href="https://github.com/ruohai0925/IAMReX/pull/99"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: ruohai0925/IAMReX #99 — Document spherical and ellipsoidal immersed particles" /></a>
-  <a href="https://github.com/Sibyl-Labs/Sibyl-Memory/pull/37"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: Sibyl-Labs/Sibyl-Memory #37 — docs: document Cursor and Grok Bot MCP setup" /></a>
+  <a href="https://github.com/soroworks/soroforge/pull/311"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: soroworks/soroforge #311 — test: cover input-only and output-only function signatures" /></a>
+  <a href="https://github.com/soroworks/soroprobe/pull/296"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: soroworks/soroprobe #296 — test: cover invalid Inspect requests before RPC" /></a>
+  <a href="https://github.com/zarr-developers/numcodecs/pull/886"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: zarr-developers/numcodecs #886 — Fix LZMA container decoding with custom filters" /></a>
+  <a href="https://github.com/Lfrangt/cc-board/pull/8"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: Lfrangt/cc-board #8 — Recognize English delivery status tags" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
