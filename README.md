@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="176 merged contributions, 54 open pull requests, across 195 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="182 merged contributions, 88 open pull requests, across 235 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/Lfrangt/cc-board/pull/8"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: Lfrangt/cc-board #8 — Recognize English delivery status tags" /></a>
-  <a href="https://github.com/soroworks/soroforge/pull/311"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: soroworks/soroforge #311 — test: cover input-only and output-only function signatures" /></a>
-  <a href="https://github.com/m0p0m/itsy-spider/pull/6"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: m0p0m/itsy-spider #6 — test: cover leg geometry and orb web strokes" /></a>
-  <a href="https://github.com/KunjMaheshwari/codepilot/pull/33"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: KunjMaheshwari/codepilot #33 — Fix context line mapping in diff hunks" /></a>
+  <a href="https://github.com/ritsth/job-autofill-extension/pull/462"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: ritsth/job-autofill-extension #462 — fix: skip profile autofill for referral questions" /></a>
+  <a href="https://github.com/encore488/weight-space-manipulator/pull/12"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: encore488/weight-space-manipulator #12 — Stabilize generated tool documentation" /></a>
+  <a href="https://github.com/endoflife-date/endoflife.date/pull/11694"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: endoflife-date/endoflife.date #11694 — [ubuntu] Correct Ubuntu 26.10 support end dates" /></a>
+  <a href="https://github.com/ZhuLinsen/daily_stock_analysis/pull/2618"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: ZhuLinsen/daily_stock_analysis #2618 — docs: troubleshoot long Windows dependency paths" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/soroworks/soroprobe/pull/296"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: soroworks/soroprobe #296 — test: cover invalid Inspect requests before RPC" /></a>
-  <a href="https://github.com/zarr-developers/numcodecs/pull/886"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: zarr-developers/numcodecs #886 — Fix LZMA container decoding with custom filters" /></a>
-  <a href="https://github.com/GillMacedo/flaggap/pull/5"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: GillMacedo/flaggap #5 — fix: suggest normalized long flags for single-dash arguments" /></a>
-  <a href="https://github.com/baryonlabs/macmini-ops/pull/14"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: baryonlabs/macmini-ops #14 — feat: show uptime and load on the host card" /></a>
+  <a href="https://github.com/visgl/deck.gl/pull/11322"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: visgl/deck.gl #11322 — Wait for TileLayer sublayers before reporting readiness" /></a>
+  <a href="https://github.com/davila7/claude-code-templates/pull/1707"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: davila7/claude-code-templates #1707 — Remove the duplicate research lookup script" /></a>
+  <a href="https://github.com/solidjs/solid/pull/5188"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: solidjs/solid #5188 — fix(web): retain server nodes during deferred hydration" /></a>
+  <a href="https://github.com/Devolutions/UniGetUI/pull/5833"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: Devolutions/UniGetUI #5833 — Fix false Windows PowerShell package refresh errors" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
