@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="182 merged contributions, 88 open pull requests, across 235 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="183 merged contributions, 84 open pull requests, across 232 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/ritsth/job-autofill-extension/pull/462"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: ritsth/job-autofill-extension #462 — fix: skip profile autofill for referral questions" /></a>
-  <a href="https://github.com/encore488/weight-space-manipulator/pull/12"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: encore488/weight-space-manipulator #12 — Stabilize generated tool documentation" /></a>
-  <a href="https://github.com/endoflife-date/endoflife.date/pull/11694"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: endoflife-date/endoflife.date #11694 — [ubuntu] Correct Ubuntu 26.10 support end dates" /></a>
-  <a href="https://github.com/ZhuLinsen/daily_stock_analysis/pull/2618"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: ZhuLinsen/daily_stock_analysis #2618 — docs: troubleshoot long Windows dependency paths" /></a>
+  <a href="https://github.com/SubtitleEdit/subtitleedit/pull/17175"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: SubtitleEdit/subtitleedit #17175 — Preserve imported panel layout when applying settings" /></a>
+  <a href="https://github.com/tianma-if/edgeever/pull/890"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: tianma-if/edgeever #890 — Use one local font face for Japanese editor headings on Windows" /></a>
+  <a href="https://github.com/Imbad0202/academic-research-skills/pull/1182"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: Imbad0202/academic-research-skills #1182 — docs: clarify when the arXiv resolver runs" /></a>
+  <a href="https://github.com/ritsth/job-autofill-extension/pull/462"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: ritsth/job-autofill-extension #462 — fix: skip profile autofill for referral questions" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/visgl/deck.gl/pull/11322"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: visgl/deck.gl #11322 — Wait for TileLayer sublayers before reporting readiness" /></a>
-  <a href="https://github.com/davila7/claude-code-templates/pull/1707"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: davila7/claude-code-templates #1707 — Remove the duplicate research lookup script" /></a>
-  <a href="https://github.com/solidjs/solid/pull/5188"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: solidjs/solid #5188 — fix(web): retain server nodes during deferred hydration" /></a>
-  <a href="https://github.com/Devolutions/UniGetUI/pull/5833"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: Devolutions/UniGetUI #5833 — Fix false Windows PowerShell package refresh errors" /></a>
+  <a href="https://github.com/agda/agda/pull/8955"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: agda/agda #8955 — Fix primQNameToWord64s in the GHC backend" /></a>
+  <a href="https://github.com/soroworks/soroprobe/pull/296"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: soroworks/soroprobe #296 — test: cover invalid Inspect requests before RPC" /></a>
+  <a href="https://github.com/visgl/deck.gl/pull/11322"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: visgl/deck.gl #11322 — Wait for TileLayer sublayers before reporting readiness" /></a>
+  <a href="https://github.com/davila7/claude-code-templates/pull/1707"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: davila7/claude-code-templates #1707 — Remove the duplicate research lookup script" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
