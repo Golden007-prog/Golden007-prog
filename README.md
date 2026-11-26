@@ -78,12 +78,12 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 
 <!-- CONTRIBUTION-CARDS:END -->
 
-### Help me pursue a master’s in Germany
+### Help me pursue a master’s in USA
 
 <a href="https://paypal.me/OikantikBasu">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/education-progress.png" />
-    <img src="./assets/education-progress.gif" width="100%" alt="€1,583 raised toward my €40,000 master's goal in Germany: 3.96% funded, €38,417 remaining. Fundraising continues until January 2027." />
+    <img src="./assets/education-progress.gif" width="100%" alt="€1,583 raised toward my €40,000 master's goal in USA: 3.96% funded, €38,417 remaining. Fundraising continues until January 2027." />
   </picture>
 </a>
 
@@ -93,7 +93,7 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 
 **€1,583 raised of €40,000 · 3.96% funded · €38,417 remaining.** Updated 16 November 2026.
 
-I’m based in India and aiming to raise **€40,000 by January 2027** to support applications and a master’s programme in Germany. I plan to apply in **January 2027 to several German universities**; my final university will depend on admission offers.
+I’m based in India and aiming to raise **€40,000 by January 2027** to support applications and a master’s programme in USA. I plan to apply in **January 2027 to several German universities**; my final university will depend on admission offers.
 
 I’ve completed **dMAT and APS**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions.
 
@@ -114,7 +114,7 @@ For supporters in India: scan this QR code with Google Pay or another UPI app.
 **UPI ID:** `basuoikantik-2@okicici`  
 **Recipient:** Oikantik Basu
 
-[**Contact me about donating**](mailto:basuoikantik@gmail.com?subject=Germany%20master%27s%20fundraiser)
+[**Contact me about donating**](mailto:basuoikantik@gmail.com?subject=USA%20master%27s%20fundraise)
 
 ### Tools I work with
 
