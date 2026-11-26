@@ -83,7 +83,7 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 <a href="https://paypal.me/OikantikBasu">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/education-progress.png" />
-    <img src="./assets/education-progress.gif" width="100%" alt="€1,583 raised toward my €40,000 master's goal in USA: 3.96% funded, €38,417 remaining. Fundraising continues until January 2027." />
+    <img src="./assets/education-progress.gif" width="100%" alt="Georgia Tech MSCS fundraiser: approximately US$1,744 toward a US$40,000 goal, 4.36% funded, with about US$38,256 remaining. Goal date: January 2027." />
   </picture>
 </a>
 
@@ -91,11 +91,11 @@ Public pull requests in other people’s repositories. Merged cards show contrib
   <a href="https://paypal.me/OikantikBasu"><img src="./assets/paypal-support-button.svg" width="280" alt="Support via PayPal — opens Oikantik Basu's PayPal page" /></a>
 </p>
 
-**€1,583 raised of €40,000 · 3.96% funded · €38,417 remaining.** Updated 16 November 2026.
+**About US$1,744 toward US$40,000 · 4.36% funded · about US$38,256 to go.** The 16 November 2026 reported total was converted using the [ECB reference rate for that date](https://www.ecb.europa.eu/stats/exchange/eurofxref/shared/pdf/2026/11/20261116.pdf) and rounded to the nearest U.S. dollar.
 
-I’m based in India and aiming to raise **€40,000 by January 2027** to support applications and a master’s programme in USA. I plan to apply in **January 2027 to several German universities**; my final university will depend on admission offers.
+I’m based in India and aiming to raise **US$40,000 by January 2027** to help cover application and study costs in the USA. I plan to apply in **January 2027** to the [Master of Science in Computer Science (MSCS) program at the Georgia Institute of Technology](https://www.cc.gatech.edu/degree-programs/master-science-computer-science).
 
-I’ve completed **dMAT and APS**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions.
+I’ve completed **dMAT**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions.
 
 [**Support via PayPal →**](https://paypal.me/OikantikBasu)
 
