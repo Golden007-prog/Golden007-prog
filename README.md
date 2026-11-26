@@ -54,7 +54,7 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="186 merged contributions, 81 open pull requests, across 232 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="186 merged contributions, 85 open pull requests, across 236 external projects" />
 
 #### Merged contributions
 
@@ -68,10 +68,10 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/visgl/deck.gl/pull/11322"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: visgl/deck.gl #11322 — Wait for TileLayer sublayers before reporting readiness" /></a>
-  <a href="https://github.com/kajisho5/ffmpeg-skill/pull/730"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: kajisho5/ffmpeg-skill #730 — fix(fit): advise on flagged interlaced input" /></a>
-  <a href="https://github.com/colbymchenry/codegraph/pull/3481"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: colbymchenry/codegraph #3481 — fix(go): resolve local closure result types" /></a>
-  <a href="https://github.com/davila7/claude-code-templates/pull/1707"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: davila7/claude-code-templates #1707 — Remove the duplicate research lookup script" /></a>
+  <a href="https://github.com/kajisho5/ffmpeg-skill/pull/730"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: kajisho5/ffmpeg-skill #730 — fix(fit): advise on flagged interlaced input" /></a>
+  <a href="https://github.com/ruby/rubygems/pull/10140"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: ruby/rubygems #10140 — Resolve local Git overrides from the Bundler project root" /></a>
+  <a href="https://github.com/koalaman/shellcheck/pull/3640"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: koalaman/shellcheck #3640 — Report constant test results for nonempty parameter defaults" /></a>
+  <a href="https://github.com/wallabag/wallabag/pull/9263"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: wallabag/wallabag #9263 — Use protected POST forms for browser logout" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
