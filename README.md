@@ -95,7 +95,7 @@ Public pull requests in other people’s repositories. Merged cards show contrib
 
 I’m based in India and aiming to raise **US$40,000 by January 2027** to help cover application and study costs in the USA. I plan to apply in **January 2027** to the [Master of Science in Computer Science (MSCS) program at the Georgia Institute of Technology](https://www.cc.gatech.edu/degree-programs/master-science-computer-science).
 
-I’ve completed **dMAT**, with **IELTS and GRE still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions.
+I’ve completed **IEE**, with **IELTS still ahead**. I contribute to open-source projects on GitHub and take part in Kaggle competitions.
 
 [**Support via PayPal →**](https://paypal.me/OikantikBasu)
 
