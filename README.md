@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="186 merged contributions, 85 open pull requests, across 236 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="193 merged contributions, 87 open pull requests, across 245 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/ChrisAbner/Cordon-Modulith/pull/40"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: ChrisAbner/Cordon-Modulith #40 — Seed the PHPStan directory cache in cold test runs" /></a>
-  <a href="https://github.com/lewis6991/gitsigns.nvim/pull/1628"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: lewis6991/gitsigns.nvim #1628 — fix(qflist): schedule after a threaded diff" /></a>
-  <a href="https://github.com/Devolutions/UniGetUI/pull/5833"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: Devolutions/UniGetUI #5833 — Fix false Windows PowerShell package refresh errors" /></a>
-  <a href="https://github.com/SubtitleEdit/subtitleedit/pull/17175"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: SubtitleEdit/subtitleedit #17175 — Preserve imported panel layout when applying settings" /></a>
+  <a href="https://github.com/agda/agda/pull/8955"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: agda/agda #8955 — Fix primQNameToWord64s in the GHC backend" /></a>
+  <a href="https://github.com/tasks/tasks/pull/4896"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: tasks/tasks #4896 — Move launcher shortcut pin requests off the main thread" /></a>
+  <a href="https://github.com/ShareX/ShareX/pull/9352"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: ShareX/ShareX #9352 — Restore marquee selection in image history" /></a>
+  <a href="https://github.com/elixir-lsp/elixir_sense/pull/352"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: elixir-lsp/elixir_sense #352 — Suggest documented ExUnit tag attributes" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/kajisho5/ffmpeg-skill/pull/730"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: kajisho5/ffmpeg-skill #730 — fix(fit): advise on flagged interlaced input" /></a>
-  <a href="https://github.com/ruby/rubygems/pull/10140"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: ruby/rubygems #10140 — Resolve local Git overrides from the Bundler project root" /></a>
-  <a href="https://github.com/koalaman/shellcheck/pull/3640"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: koalaman/shellcheck #3640 — Report constant test results for nonempty parameter defaults" /></a>
-  <a href="https://github.com/wallabag/wallabag/pull/9263"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: wallabag/wallabag #9263 — Use protected POST forms for browser logout" /></a>
+  <a href="https://github.com/soroworks/soroprobe/pull/296"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: soroworks/soroprobe #296 — test: cover invalid Inspect requests before RPC" /></a>
+  <a href="https://github.com/XiaoYouChR/Ghost-Downloader-3/pull/1180"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: XiaoYouChR/Ghost-Downloader-3 #1180 — fix: release the sleep inhibitor after cancelling the last download" /></a>
+  <a href="https://github.com/jekyll/jekyll/pull/10059"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: jekyll/jekyll #10059 — docs: explain differences in highlighted code markup" /></a>
+  <a href="https://github.com/solidjs/solid/pull/5188"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: solidjs/solid #5188 — fix(web): retain server nodes during deferred hydration" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
