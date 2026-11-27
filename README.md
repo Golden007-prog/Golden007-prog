@@ -54,24 +54,24 @@ A selection of my independent projects, capstone work and team hackathon builds.
 
 Public pull requests in other people’s repositories. Merged cards show contributions merged by someone other than me; open cards show upcoming work awaiting a decision.
 
-<img src="./assets/contributions/overview.svg" width="100%" alt="195 merged contributions, 85 open pull requests, across 245 external projects" />
+<img src="./assets/contributions/overview.svg" width="100%" alt="197 merged contributions, 83 open pull requests, across 245 external projects" />
 
 #### Merged contributions
 
 <p align="left">
-  <a href="https://github.com/Ransomwave/azul/pull/91"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: Ransomwave/azul #91 — Allow pushing multiple script files to one destination" /></a>
-  <a href="https://github.com/soroworks/soroprobe/pull/296"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: soroworks/soroprobe #296 — test: cover invalid Inspect requests before RPC" /></a>
-  <a href="https://github.com/agda/agda/pull/8955"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: agda/agda #8955 — Fix primQNameToWord64s in the GHC backend" /></a>
-  <a href="https://github.com/tasks/tasks/pull/4896"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: tasks/tasks #4896 — Move launcher shortcut pin requests off the main thread" /></a>
+  <a href="https://github.com/brylie/LoomDSP/pull/820"><img src="./assets/contributions/merged-1.svg" width="400" alt="Merged: brylie/LoomDSP #820 — Make the unpatched Phase Trigger follow the bar" /></a>
+  <a href="https://github.com/Questie/Questie/pull/8537"><img src="./assets/contributions/merged-2.svg" width="400" alt="Merged: Questie/Questie #8537 — Keep completed quest item icons hidden on redraw" /></a>
+  <a href="https://github.com/Ransomwave/azul/pull/91"><img src="./assets/contributions/merged-3.svg" width="400" alt="Merged: Ransomwave/azul #91 — Allow pushing multiple script files to one destination" /></a>
+  <a href="https://github.com/soroworks/soroprobe/pull/296"><img src="./assets/contributions/merged-4.svg" width="400" alt="Merged: soroworks/soroprobe #296 — test: cover invalid Inspect requests before RPC" /></a>
 </p>
 
 #### Upcoming · open pull requests
 
 <p align="left">
-  <a href="https://github.com/XiaoYouChR/Ghost-Downloader-3/pull/1180"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: XiaoYouChR/Ghost-Downloader-3 #1180 — fix: release the sleep inhibitor after cancelling the last download" /></a>
-  <a href="https://github.com/jekyll/jekyll/pull/10059"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: jekyll/jekyll #10059 — docs: explain differences in highlighted code markup" /></a>
-  <a href="https://github.com/solidjs/solid/pull/5188"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: solidjs/solid #5188 — fix(web): retain server nodes during deferred hydration" /></a>
-  <a href="https://github.com/Questie/Questie/pull/8537"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: Questie/Questie #8537 — Keep completed quest item icons hidden on redraw" /></a>
+  <a href="https://github.com/backnotprop/plannotator/pull/4088"><img src="./assets/contributions/open-1.svg" width="400" alt="Open: backnotprop/plannotator #4088 — Fix GitLab Inbox diff when raw_diffs is unavailable" /></a>
+  <a href="https://github.com/haskell/cabal/pull/12663"><img src="./assets/contributions/open-2.svg" width="400" alt="Open: haskell/cabal #12663 — Name local no-index repositories in index-state warnings" /></a>
+  <a href="https://github.com/XiaoYouChR/Ghost-Downloader-3/pull/1180"><img src="./assets/contributions/open-3.svg" width="400" alt="Open: XiaoYouChR/Ghost-Downloader-3 #1180 — fix: release the sleep inhibitor after cancelling the last download" /></a>
+  <a href="https://github.com/jekyll/jekyll/pull/10059"><img src="./assets/contributions/open-4.svg" width="400" alt="Open: jekyll/jekyll #10059 — docs: explain differences in highlighted code markup" /></a>
 </p>
 
 [Explore all my public contributions](https://github.com/pulls?q=is%3Apr%20is%3Apublic%20author%3AGolden007-prog%20-user%3AGolden007-prog) · Cards refresh automatically every 6 hours.
